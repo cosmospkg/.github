@@ -16,7 +16,7 @@ It avoids dynamic linking, daemons, and unnecessary complexity. It prefers tools
 
 - [`cosmos`](https://github.com/cosmospkg/cosmos) — Core CLI and package manager logic
 - [`cosmos-docs`](https://github.com/cosmospkg/cosmos-docs) — Full documentation for Stars, Galaxies, Nova, and Stellar
-- [`example-galaxy`](https://github.com/cosmospkg/example-galaxy) — Sample packages and Galaxy layout
+- [`example-galaxy`](https://github.com/cosmospkg/example-galaxy) — Sample packages and Galaxy layout (works with `glibc`)
 
 ## Live Project Site
 

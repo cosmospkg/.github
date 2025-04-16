@@ -1,6 +1,6 @@
 # 🌌 Cosmos Package System
 
-**The package manager for when your distribution is on fire.**  
+**The package manager for when your distribution is on fire. (or just minimal)**
 Minimal. Static. Offline-friendly. Powered by tarballs, TOML, and spite.
 
 Cosmos is a package management ecosystem built for:
